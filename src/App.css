@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  
+ 
 }
 
 .App-logo {
@@ -36,3 +38,8 @@
     transform: rotate(360deg);
   }
 }
+
+/* #gitem{
+  display: grid;
+  grid-template-columns: repeat(5,1fr);
+} */
